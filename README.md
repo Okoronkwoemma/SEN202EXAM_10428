@@ -17,5 +17,9 @@ Password: [12345]
 ![Postman Migrations](terminal.png)
 ![Postman Migrations](terminal2.png)
 ![Postman Q2 Screenshot](terminal3.png)
+![Postman Manager](manager.png)
+![Postman Interns](interns.png)
+![Postman  Address](address.png)
+
 
 
